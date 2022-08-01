@@ -4,11 +4,12 @@
     {
         static void Main(string[] args)
         {
-            for (int i = 1000; i < 9999; i++)
-            {
-                string str = i.ToString() + " : " + (char)i;
-                Console.WriteLine(str);
-            }
+            Console.WriteLine(char.MinValue);
+            //for (int i = 1000; i < 9999; i++)
+            //{
+            //    string str = i.ToString() + " : " + (char)i;
+            //    Console.WriteLine(str);
+            //}
             Console.ReadKey();
         }
     }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d24bff71-4014-4b91-9b78-8f13c6f0e626": {
+      "ProjectGuid": "d24bff71-4014-4b91-9b78-8f13c6f0e626",
+      "DisplayName": "Dungeoned_Console",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

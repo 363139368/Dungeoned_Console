@@ -13,20 +13,46 @@ namespace Dungeoned_Console
         UI,
     }
 
-    public class RanderEntityBase
-    {
-        //public virtual 
-    }
+    
 
     public class RanderManager
     {
+
     }
 
-    public abstract class RanderBase
+    public class UIRanderCanvas : IRanderCanvas
     {
+        private IRanderEntity[][] m_randerEntities = null;
+        public IRanderEntity[][] GetRanderEntities()
+        {
+            return m_randerEntities;
+        }
 
-        public abstract RanderLayer CurLayer { get; }
+        public void SetRanderEntities(uint x, uint y, IRanderEntity randerEntity)
+        {
 
+        }
 
+        public RanderLayer GetRanderLayer()
+        {
+            return RanderLayer.UI;
+        }
     }
+
+    public interface IRanderCanvas
+    {
+        public IRanderEntity[][] GetRanderEntities();
+        public void SetRanderEntities(uint x, uint y, IRanderEntity randerEntity);
+        RanderLayer GetRanderLayer();
+        
+    }
+
+    public interface IRanderEntity
+    {
+        char Show{ get; set; }
+        uint X{ get; set; }
+        uint Y{ get; set; }
+    }
+
+
 }
