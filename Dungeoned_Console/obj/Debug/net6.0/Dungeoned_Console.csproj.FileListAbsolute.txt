@@ -1,0 +1,15 @@
+H:\Git\Dungeoned_Console\Dungeoned_Console\bin\Debug\net6.0\Dungeoned_Console.exe
+H:\Git\Dungeoned_Console\Dungeoned_Console\bin\Debug\net6.0\Dungeoned_Console.deps.json
+H:\Git\Dungeoned_Console\Dungeoned_Console\bin\Debug\net6.0\Dungeoned_Console.runtimeconfig.json
+H:\Git\Dungeoned_Console\Dungeoned_Console\bin\Debug\net6.0\Dungeoned_Console.dll
+H:\Git\Dungeoned_Console\Dungeoned_Console\bin\Debug\net6.0\Dungeoned_Console.pdb
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.csproj.AssemblyReference.cache
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.GeneratedMSBuildEditorConfig.editorconfig
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.AssemblyInfoInputs.cache
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.AssemblyInfo.cs
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.csproj.CoreCompileInputs.cache
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.dll
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\refint\Dungeoned_Console.dll
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.pdb
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\Dungeoned_Console.genruntimeconfig.cache
+H:\Git\Dungeoned_Console\Dungeoned_Console\obj\Debug\net6.0\ref\Dungeoned_Console.dll
